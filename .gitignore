@@ -1,1 +1,3 @@
+# lower in the order, higher in the precedence
+# deeper in the dir tree, higher the precedence
 tmp/
